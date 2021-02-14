@@ -30,11 +30,18 @@
 ![Docker](https://img.shields.io/badge/-Docker-05122A?&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-05122A?&logo=Linux&logoColor=FCC624)
 
-### Full Stack Projects
+### Fullstack Projects
 
 [![My Services](https://img.shields.io/badge/-👷%20My%20Services-05122A?)](https://github.com/abdielmartins/myservice)
+
+
+### Frontend Projects
+
 [![Dogs](https://img.shields.io/badge/-🐕%20Dogs-05122A?)](https://github.com/abdielmartins/dogsProject)
 
+### Backend Projects Projects
+
+WIP...
 
 <p align="center">
 <a href="https://github.com/abdielmartins">
