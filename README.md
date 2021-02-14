@@ -38,7 +38,8 @@
 ### Frontend Projects
 
 [![Dogs](https://img.shields.io/badge/-🐕%20Dogs-05122A?)](https://github.com/abdielmartins/dogsProject)
-[![Instagram Clone](https://img.shields.io/badge/-📸%20Instagram%20Clone-05122A?)](https://github.com/abdielmartins/dogsProject)
+[![Instagram Clone](https://img.shields.io/badge/-📸%20Instagram%20Clone-05122A?)](https://github.com/abdielmartins/instagramClone)
+[![Maze Runner](https://img.shields.io/badge/-👾%20Maze%20Runner-05122A?)](https://github.com/abdielmartins/mazeRunner)
 
 ### Backend Projects Projects
 
