@@ -43,7 +43,7 @@
 
 ### Backend Projects Projects
 
-WIP...
+[![Flask CRUD](https://img.shields.io/badge/-🚀%20Flask%20Crud-05122A?)](https://github.com/abdielmartins/CRUD_flask)
 
 <p align="center">
 <a href="https://github.com/abdielmartins">
