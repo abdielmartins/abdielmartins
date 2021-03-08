@@ -61,7 +61,6 @@
 <a href="https://www.linkedin.com/in/abdiel-martins/"><img src="https://img.shields.io/badge/-Abdiel%20Martins-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:abdielmartins21@gmail.com"><img src="https://img.shields.io/badge/-abdielmartins21@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/abdiverso"><img src="https://img.shields.io/badge/-@abdiverso_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://twitter.com/abdiverso"><img src="https://img.shields.io/badge/-@abdiverso-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
 
 
