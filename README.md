@@ -43,7 +43,7 @@
   ![Flask](https://img.shields.io/badge/-Flask-F5F5F5?style=flat&logo=flask&logoColor=black)&nbsp;
 * [![NLW-04 NodeJS](https://img.shields.io/badge/-%20NWL04%20NodeJS-gray?)](https://github.com/abdielmartins/NLW4-nodeJS)
   ![Node.js](https://img.shields.io/badge/-Node.js-F5F5F5?style=flat&logo=node.js&logoColor=black)&nbsp;
-* [![finAPI](https://img.shields.io/badge/-%fin%20API-gray?)](https://github.com/abdielmartins/finAPI)
+* [![finAPI](https://img.shields.io/badge/-%20finAPI-gray?)](https://github.com/abdielmartins/finAPI)
   ![Node.js](https://img.shields.io/badge/-Node.js-F5F5F5?style=flat&logo=node.js&logoColor=black)&nbsp;
 
 
