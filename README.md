@@ -25,7 +25,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-F5F5F5?&logo=Docker&logoColor=black)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-F5F5F5?&logo=Linux&logoColor=black)&nbsp;
 
-## 🛠 &nbsp;Projects
+## Projects
 
 * [![Instagram Clone](https://img.shields.io/badge/-%20Instagram%20Clone-gray?)](https://github.com/abdielmartins/instagramClone)
   ![HTML](https://img.shields.io/badge/-HTML-F5F5F5?style=flat&logo=HTML5&logoColor=black)&nbsp;
@@ -43,11 +43,13 @@
   ![Flask](https://img.shields.io/badge/-Flask-F5F5F5?style=flat&logo=flask&logoColor=black)&nbsp;
 * [![NLW-04 NodeJS](https://img.shields.io/badge/-%20NWL04%20NodeJS-gray?)](https://github.com/abdielmartins/NLW4-nodeJS)
   ![Node.js](https://img.shields.io/badge/-Node.js-F5F5F5?style=flat&logo=node.js&logoColor=black)&nbsp;
+  
+## Stats
 
 ![Abdiel's GitHub stats](https://github-readme-stats.vercel.app/api/?username=abdielmartins&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdielmartins&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Abdiel Martins" />
 
-### 🤝🏻 &nbsp;Connect with Me
+## Connect with Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/abdiel-martins/"><img src="https://img.shields.io/badge/-Abdiel%20Martins-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
