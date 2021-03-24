@@ -37,12 +37,17 @@
   ![Django](https://img.shields.io/badge/-Django-F5F5F5?style=flat&logo=django&logoColor=black)&nbsp;
 * [![Dogs](https://img.shields.io/badge/-%20Dogs-gray?)](https://github.com/abdielmartins/dogsProject)
   ![React](https://img.shields.io/badge/-React-F5F5F5?style=flat&logo=react&logoColor=black)&nbsp;
-* [![Flask CRUD](https://img.shields.io/badge/-%20Flask%20Crud-gray?)](https://github.com/abdielmartins/CRUD_flask)
+* [![Flask MVTS](https://img.shields.io/badge/-%20Flask%20Crud-gray?)](https://github.com/abdielmartins/mvts_practice_FLASK)
   ![Flask](https://img.shields.io/badge/-Flask-F5F5F5?style=flat&logo=flask&logoColor=black)&nbsp;
 * [![Flask BLOG](https://img.shields.io/badge/-%20Flask%20Blog-gray?)](https://github.com/abdielmartins/flask_BLOG)
   ![Flask](https://img.shields.io/badge/-Flask-F5F5F5?style=flat&logo=flask&logoColor=black)&nbsp;
 * [![NLW-04 NodeJS](https://img.shields.io/badge/-%20NWL04%20NodeJS-gray?)](https://github.com/abdielmartins/NLW4-nodeJS)
   ![Node.js](https://img.shields.io/badge/-Node.js-F5F5F5?style=flat&logo=node.js&logoColor=black)&nbsp;
+* [![finAPI](https://img.shields.io/badge/-%fin%20API-gray?)](https://github.com/abdielmartins/finAPI)
+  ![Node.js](https://img.shields.io/badge/-Node.js-F5F5F5?style=flat&logo=node.js&logoColor=black)&nbsp;
+
+
+
   
 # Stats
 
