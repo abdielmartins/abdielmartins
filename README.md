@@ -1,18 +1,15 @@
-👋 &nbsp;Hey there! I'm Abdiel
+# Hey there! I'm Abdiel
 
-### 👨🏻‍💻 &nbsp;About Me
+## About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I'm currently studying Software Engineering at Kenzie Academy.\
 🌱 &nbsp;I'm on track for learning more about Back-end, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Machine Learning and Data Science as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at abdielmartins21@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1leuZJ5c5Id2x3dh5PQYDnQLhsQwuBdBQ/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
-### 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -30,21 +27,26 @@
 ![Docker](https://img.shields.io/badge/-Docker-05122A?&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-05122A?&logo=Linux&logoColor=FCC624)
 
-### Fullstack Projects
+### HTML/CSS Projects
 
-[![My Services](https://img.shields.io/badge/-%20My%20Services-05122A?)](https://github.com/abdielmartins/myservice)
-
-
-### Frontend Projects
-
-[![Dogs](https://img.shields.io/badge/-%20Dogs-05122A?)](https://github.com/abdielmartins/dogsProject)
 [![Instagram Clone](https://img.shields.io/badge/-%20Instagram%20Clone-05122A?)](https://github.com/abdielmartins/instagramClone)
 [![Maze Runner](https://img.shields.io/badge/-%20Maze%20Runner-05122A?)](https://github.com/abdielmartins/mazeRunner)
 
-### Backend Projects Projects
+### Django Projects
+
+[![My Services](https://img.shields.io/badge/-%20My%20Services-05122A?)](https://github.com/abdielmartins/myservice)
+
+### React Projects
+
+[![Dogs](https://img.shields.io/badge/-%20Dogs-05122A?)](https://github.com/abdielmartins/dogsProject)
+
+### Flask Projects
 
 [![Flask CRUD](https://img.shields.io/badge/-%20Flask%20Crud-05122A?)](https://github.com/abdielmartins/CRUD_flask)
 [![Flask BLOG](https://img.shields.io/badge/-%20Flask%20Blog-05122A?)](https://github.com/abdielmartins/flask_BLOG)
+
+### NodeJS Projects
+
 [![NLW-04 NodeJS](https://img.shields.io/badge/-%20NWL04%20NodeJS-05122A?)](https://github.com/abdielmartins/NLW4-nodeJS)
 
 <p align="center">
