@@ -3,11 +3,9 @@
 ## Hey there! I'm Abdiel
 
 * I like to explore new technologies and develop software solutions.\
-* I'm currently studying Software Engineering at Kenzie Academy.\
 * I'm on track for learning more about Back-end, Systems Design, and Cloud Architecture.\
 * Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-* You can shoot me an email at abdielmartins21@gmail.com! I'll try to respond as soon as I can.\
-* Please have a look at my [Résumé](https://drive.google.com/file/d/1leuZJ5c5Id2x3dh5PQYDnQLhsQwuBdBQ/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+
 
 # Tech Stack
 
